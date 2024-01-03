@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D2E83379-C1F7-41B8-876D-3585A05BD848"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD536304-DC98-4F56-B510-96D50938D99C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_TestAPI/Ex4/Controllers/TestAPIViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "fetchUserData(userId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD536304-DC98-4F56-B510-96D50938D99C - 5d09fcff4e4ddc99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_TestAPI.TestAPIViewController.fetchUserData(userId: Swift.Int) -&gt; ()"
+                  moduleName = "Combine_TestAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandramakei/Projects/Combine_TestAPI/Combine_TestAPI/Ex4/Controllers/TestAPIViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "FD536304-DC98-4F56-B510-96D50938D99C - 5d09fcff4e4ddce6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_TestAPI.TestAPIViewController.fetchUserData(userId: Swift.Int) -&gt; ()"
+                  moduleName = "Combine_TestAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandramakei/Projects/Combine_TestAPI/Combine_TestAPI/Ex4/Controllers/TestAPIViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0AF0E91-47C2-42DE-9765-D1C091535807"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_TestAPI/Ex4/Controllers/TestAPIViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "fetchUserData(userId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0AF0E91-47C2-42DE-9765-D1C091535807 - 5d09fcff4e4ddb6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine_TestAPI.TestAPIViewController.fetchUserData(userId: Swift.Int) -&gt; ()"
+                  moduleName = "Combine_TestAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandramakei/Projects/Combine_TestAPI/Combine_TestAPI/Ex4/Controllers/TestAPIViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "322">
+               </Location>
+               <Location
+                  uuid = "F0AF0E91-47C2-42DE-9765-D1C091535807 - a919d114818ecc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine_TestAPI.User) -&gt; () in Combine_TestAPI.TestAPIViewController.fetchUserData(userId: Swift.Int) -&gt; ()"
+                  moduleName = "Combine_TestAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksandramakei/Projects/Combine_TestAPI/Combine_TestAPI/Ex4/Controllers/TestAPIViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "946">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26E5403A-25B5-4FAF-9543-083F2FDDD096"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Combine_TestAPI/Ex4/Controllers/TestAPIViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "fetchUserData(userId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
